@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/search_suggestion.git
+    git clone https://github.com/sahil644singh/search_suggestion.git
     ```
 
 2. **Navigate to the project directory:**
