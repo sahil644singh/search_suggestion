@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd product-search-app
+    cd search_suggestion
     ```
 
 3. **Install dependencies for both the client and server Run the Development server:**
